@@ -1,0 +1,21 @@
+Patient ID P101
+
+Patient
+1. What is the patient's name?
+2. What is the patient's blood group?
+
+Doctor
+1. What treatment has been recommended?
+2. Who is the doctor?
+
+Laboratory
+1. What was the test result?
+2. Was the ECG result normal or abnormal?
+
+Pharmacy
+1. What is the prescription status?
+2. What medicine is prescribed?
+
+Billing
+1. What is the laboratory fee?
+2. Has the bill been paid?
