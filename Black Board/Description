@@ -1,0 +1,21 @@
+Hospital Data Sharing System – Blackboard Architecture
+
+This project is a hospital data-sharing system that uses Blackboard Architecture to enable multiple agents to share and access patient information through a central blackboard.
+
+The system consists of four agents:
+* Doctor Agent – Handles diagnosis and treatment.
+* Laboratory Agent – Manages medical tests and reports.
+* Pharmacy Agent – Handles medicines and availability.
+* Billing Agent – Manages consultation, laboratory, medicine, and room charges.
+
+All agents communicate through a central Blackboard, where patient-related information is stored and updated. The system also maintains a communication history using SQLite.
+
+Technologies used:
+* Python
+* Streamlit
+* SQLite
+* JSON
+* Pandas
+* NetworkX
+
+The main objective is to demonstrate how multiple intelligent agents can collaboratively process hospital information using a shared Blackboard.
