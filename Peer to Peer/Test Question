@@ -1,0 +1,23 @@
+Student → Faculty
+Who is my assigned faculty and subject?
+
+Student → Library
+What book did I borrow?
+
+Student → Placement
+What package did I receive?
+
+Faculty → Student
+List all students assigned to me.
+
+Faculty → Library
+Which of my students have library fines?
+
+Library → Library
+What is the name of this book?
+
+Library → Student
+Which student borrowed this book?
+
+Placement → Student
+Which student was selected?
